@@ -9,7 +9,7 @@ Other Resources
 - https://docs.google.com/spreadsheets/d/1eyHEKQBgqqXqdVpX2ZndVxmZjCq4m68nBLi5X0MhEX8/edit#gid=0
 
 
-Contribute by making a pull request or using this Google Form!
+Contribute by making a pull request or using this [Google Form](https://forms.gle/X4tZsuw6tRRhK8n96)!
 
 ## The List
 |Name|Role|Other Roles/Comments|

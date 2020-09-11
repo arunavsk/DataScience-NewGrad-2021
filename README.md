@@ -6,6 +6,7 @@ Similar repo for FTE SWE/SDE 2021 can be found [here](https://github.com/Pitt-CS
 Other Resources 
 
 - https://datastudio.google.com/u/0/reporting/c7d16119-acb0-4f6a-8284-d9b2d3b7b258/page/otYdB
+- https://docs.google.com/spreadsheets/d/1eyHEKQBgqqXqdVpX2ZndVxmZjCq4m68nBLi5X0MhEX8/edit#gid=0
 
 
 Contribute by making a pull request or using this Google Form!

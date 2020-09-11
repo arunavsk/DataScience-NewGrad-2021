@@ -1,6 +1,7 @@
 # 2021 New Grad Applications (Data Science)
 
 Repo to track Full Time opportunities for Data Science roles 2021
+
 Similar repo for FTE SWE/SDE 2021 can be found [here](https://github.com/Pitt-CSC/NewGrad-2021)
 
 Other Resources 

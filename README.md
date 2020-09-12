@@ -11,14 +11,14 @@ Other Resources
 
 
 Contribute by making a pull request or using this [Google Form](https://forms.gle/X4tZsuw6tRRhK8n96)!
-
+&dagger - expired
 ## The List
 |Name|Role|Other Roles/Comments|
 |----|---|---|
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2231479)|Junior Quantitative Researcher - Machine Learning|Multiple|
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1299494)|Data Scientist|Business Analyst|
 |[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201/)|Data Scientist|Multiple|
-|[Facebook]|Data Scientist, Analytics||
+|[Facebook]()&dagger|Data Scientist, Analytics||
 |[Amazon](https://www.amazon.jobs/en/jobs/1261160/business-intelligence-engineer-2021-united-states)|Business Intelligence Engineer||
 |Capital One|||
 |[IBM](https://careers.ibm.com/ShowJob/Id/962713/Entry-Level-Data-Scientist-2021/)|Data Scientist||

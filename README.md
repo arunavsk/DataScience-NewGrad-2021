@@ -18,12 +18,12 @@ Contribute by making a pull request or using this [Google Form](https://forms.gl
 |[Akuna Capital](https://akunacapital.com/job-details?gh_jid=2231479)|Junior Quantitative Researcher - Machine Learning|Multiple|
 |[Cisco](https://jobs.cisco.com/jobs/ProjectDetail?projectId=1299494)|Data Scientist|Business Analyst|
 |[SAP](https://jobs.sap.com/job/Palo-Alto-Silicon-Valley-Next-Talent-Rotational-Program-2021-Job-CA-94303/609822201/)|Data Scientist|Multiple|
-|Facebook|||
+|[Facebook]|Data Scientist, Analytics||
 |[Amazon](https://www.amazon.jobs/en/jobs/1261160/business-intelligence-engineer-2021-united-states)|Business Intelligence Engineer||
 |Capital One|||
 |[IBM](https://careers.ibm.com/ShowJob/Id/962713/Entry-Level-Data-Scientist-2021/)|Data Scientist||
 |[Quora](https://boards.greenhouse.io/quora2/jobs/4810872002)|Data Scientist||
-|Mckinsey|||
+|[Mckinsey]|Analyst - Data Science||
 |Goldman Sachs|New Analyst||
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/890704/Full-Time-Opportunities-for-PhD-Students-or-Recent-Graduates-Data-Applied-Sciences)|Data and Applied Scientist||
 |[Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55616)|Data Scientist |Data Analyst |
@@ -31,8 +31,7 @@ Contribute by making a pull request or using this [Google Form](https://forms.gl
 |[Rio Tinto](https://jobs.riotinto.com/ShowJob/JobId/461306/GraduateDataScienceEngineering)|Data Science Engineer|Multiple|
 |[ZS Associates](https://jobs.zs.com/Americas/job/Princeton-Decision-Analytics-Associate-%28US-University-not-listed%29-NJ-08540/423892500/)|Decision Analytics Associate|Business Technology Associate|
 |[84 51](https://boards.greenhouse.io/8451university/jobs/4734649002)|Data Science Development|Consultant|
-|Hersheys|||
-|Cargill|||
+|[Cargill](https://careers.cargill.com/job/wayzata/data-scientist-2021/23251/17141445)|Data Scientist||
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/Software-Engineer--Algorithms-and-Machine-Learning---New-College-Grad_JR1932394-1)|Software Engineer, Algorithms and Machine Learning||
 |[Scale AI](https://jobs.lever.co/scaleai/671b9ad6-113f-4639-8911-99a548208aee/apply)|Machine Learning Research Engineer||
 |[Apple](https://jobs.apple.com/en-us/details/200189775/software-or-machine-learning-engineer-entry-level?team=MLAI)|Machine Learning Engineer||
@@ -60,5 +59,7 @@ Contribute by making a pull request or using this [Google Form](https://forms.gl
 |Doordash|||
 |Instacart|||
 |Affirm|||
-
+|Play Station|||
+|EA|||
+|Activison|||
 

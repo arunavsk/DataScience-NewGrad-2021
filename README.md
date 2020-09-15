@@ -41,6 +41,10 @@ Repo to track Full Time opportunities for Data Science roles 2021
 |[Transunion](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Junior-Insurance-Data-Scientist_19005447)|Junior Insurance Data Scientist||
 |[GSK](https://jobs.gsk.com/en-gb/jobs/263690?lang=en-us&source=LinkedIn)|Data Science||
 |[Publicis Sapient](https://sapient.avature.net/pscampus)|Junior Associate Data Science & Analytics||
+|[Verisk Analytics](https://jobs.smartrecruiters.com/Verisk/743999718635391-data-science-excellence-program-dsep-cr)|Data Scientist|Rotational Program|
+|[Captech](https://jobs.smartrecruiters.com/CapTechConsulting/743999715583349-data-analytics-consultant-graduating-dec-2020-may-2021-?source=Linkedin)|Data Analytics Consulatant||
+|[Wellsfargo](https://www.wellsfargojobs.com/applicationprocess-earlycareers)|Analytics Consultant|Applications open January 2021|
+|[Western Digital](https://westerndigital.referrals.selectminds.com/jobs/launch-business-analytics-program-8623?src=JB-10069)|Business Analyst|Multiple|
 |Lyft|||
 |Uber|||
 |Airbnb|||

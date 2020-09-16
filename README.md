@@ -1,6 +1,6 @@
 # 2021 New Grad Applications (Data Science)
 
-Repo to track Full Time opportunities for Data Science roles 2021
+Repo to track Full Time opportunities for Data Science/Analyst roles 2021
 
 :mortar_board: Similar repo for SWE/SDE 2021 can be found [here](https://github.com/Pitt-CSC/NewGrad-2021)
 
@@ -11,6 +11,8 @@ Repo to track Full Time opportunities for Data Science roles 2021
 
 
 :boom: Contribute by making a [pull request](https://github.com/susam/gitpr#create-pull-request) or using this [Google Form](https://forms.gle/X4tZsuw6tRRhK8n96)!
+
+:star: if helpful
 
 &dagger; - expired
 ## The List

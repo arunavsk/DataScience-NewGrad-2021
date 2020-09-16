@@ -45,6 +45,7 @@ Repo to track Full Time opportunities for Data Science roles 2021
 |[Captech](https://jobs.smartrecruiters.com/CapTechConsulting/743999715583349-data-analytics-consultant-graduating-dec-2020-may-2021-?source=Linkedin)|Data Analytics Consulatant||
 |[Wellsfargo](https://www.wellsfargojobs.com/applicationprocess-earlycareers)|Analytics Consultant|Applications open January 2021|
 |[Western Digital](https://westerndigital.referrals.selectminds.com/jobs/launch-business-analytics-program-8623?src=JB-10069)|Business Analyst|Multiple|
+|[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4833054002?gh_src=61c27edd2us)|Data Scientist||
 |Lyft|||
 |Uber|||
 |Airbnb|||

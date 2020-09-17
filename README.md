@@ -71,4 +71,5 @@ Repo to track Full Time opportunities for Data Science/Analyst roles 2021
 |EA|||
 |Activison|||
 |VMWare|||
+|Twitter|||
 

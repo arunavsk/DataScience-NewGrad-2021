@@ -8,7 +8,7 @@ Repo to track Full Time opportunities for Data Science/Analyst roles 2021
 
 - https://datastudio.google.com/u/0/reporting/c7d16119-acb0-4f6a-8284-d9b2d3b7b258/page/otYdB
 - https://docs.google.com/spreadsheets/d/1eyHEKQBgqqXqdVpX2ZndVxmZjCq4m68nBLi5X0MhEX8/edit#gid=0
-
+- https://docs.google.com/spreadsheets/d/1oIf15uN216VipB6I60dRA-lgKg0DA8yyAxe-nsAjkc4/htmlview#
 
 :boom: Contribute by making a [pull request](https://github.com/susam/gitpr#create-pull-request) or using this [Google Form](https://forms.gle/X4tZsuw6tRRhK8n96)!
 

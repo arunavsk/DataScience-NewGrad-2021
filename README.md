@@ -48,6 +48,7 @@ Repo to track Full Time opportunities for Data Science/Analyst roles 2021
 |[Wellsfargo](https://www.wellsfargojobs.com/applicationprocess-earlycareers)|Analytics Consultant|Applications open January 2021|
 |[Western Digital](https://westerndigital.referrals.selectminds.com/jobs/launch-business-analytics-program-8623?src=JB-10069)|Business Analyst|Multiple|
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4833054002?gh_src=61c27edd2us)|Data Scientist||
+|[Saama](http://jobs.jobvite.com/saama/job/oa6tdfwG?s=LinkedIn_Job_Slot)|New College Graduate|Multiple|
 |Lyft|||
 |Uber|||
 |Airbnb|||

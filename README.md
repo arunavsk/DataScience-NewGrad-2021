@@ -49,6 +49,9 @@ Repo to track Full Time opportunities for Data Science/Analyst roles 2021
 |[Western Digital](https://westerndigital.referrals.selectminds.com/jobs/launch-business-analytics-program-8623?src=JB-10069)|Business Analyst|Multiple|
 |[Duolingo](https://boards.greenhouse.io/duolingo/jobs/4833054002?gh_src=61c27edd2us)|Data Scientist||
 |[Saama](http://jobs.jobvite.com/saama/job/oa6tdfwG?s=LinkedIn_Job_Slot)|New College Graduate|Multiple|
+|[TuSimple](https://boards.greenhouse.io/tusimple/jobs/4880809002)|New Graduate|Multiple|
+|[Target](https://jobs.target.com/job/minneapolis/sr-data-scientist-leadership-program-dslp/1118/17065731)|Sr. Data Scientist||
+|[Goldman](https://uscareers-goldmansachs.icims.com/jobs/66106/early-careers-%257c-data-development%252c-governance%252c-and-analytics--%257c-wilmington/job?hub=7&mode=job&iis=LinkedIn&mobile=false&width=730&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|Data Development Governance and Analytics||
 |Lyft|||
 |Uber|||
 |Airbnb|||

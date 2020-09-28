@@ -53,6 +53,9 @@ Repo to track Full Time opportunities for Data Science/Analyst roles 2021
 |[Target](https://jobs.target.com/job/minneapolis/sr-data-scientist-leadership-program-dslp/1118/17065731)|Sr. Data Scientist||
 |[Goldman](https://uscareers-goldmansachs.icims.com/jobs/66106/early-careers-%257c-data-development%252c-governance%252c-and-analytics--%257c-wilmington/job?hub=7&mode=job&iis=LinkedIn&mobile=false&width=730&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)|Data Development Governance and Analytics||
 |[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-data-scientist-san-francisco-california-united-states?source=linkedin_limited_listing&utm_source=linkedin_limited_listing&gh_src=dv1g0b1)|Data Scientist||
+|[Mitre](https://www.linkedin.com/jobs/view/2157565752)|Data Scientist|Multiple|
+|[Deliverr](https://www.linkedin.com/jobs/view/2179037050)||
+[Deloitte](https://www.linkedin.com/jobs/view/2151196269)||
 |Lyft|||
 |Uber|||
 |Airbnb|||

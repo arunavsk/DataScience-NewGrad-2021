@@ -56,7 +56,7 @@ Repo to track Full Time opportunities for Data Science/Analyst roles 2021
 |[Mitre](https://www.linkedin.com/jobs/view/2157565752)|Data Scientist|Multiple|
 |[Deliverr](https://www.linkedin.com/jobs/view/2179037050)|||
 |[Deloitte](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Analyst-Applied-AI-FY21/2547)|Analyst(Applied AI)|Multiple|
-|[John Denver](https://www.linkedin.com/jobs/view/2171526506)|||
+|[Manulife](https://jobs.manulife.com/ShowJob/Id/986724/Advanced%20Analytics%20Development%20Program%20%20%20Boston%20%20%202021%20Start)|Data Scientist||
 |Lyft|||
 |Uber|||
 |Airbnb|||

@@ -55,7 +55,7 @@ Repo to track Full Time opportunities for Data Science/Analyst roles 2021
 |[Pinterest](https://www.pinterestcareers.com/jobs/university-grad-data-scientist-san-francisco-california-united-states?source=linkedin_limited_listing&utm_source=linkedin_limited_listing&gh_src=dv1g0b1)|Data Scientist||
 |[Mitre](https://www.linkedin.com/jobs/view/2157565752)|Data Scientist|Multiple|
 |[Deliverr](https://www.linkedin.com/jobs/view/2179037050)||
-[Deloitte](https://www.linkedin.com/jobs/view/2151196269)||
+[Deloitte](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Analyst-Applied-AI-FY21/2547)|Analyst(Applied AI)|Multiple|
 |Lyft|||
 |Uber|||
 |Airbnb|||
